@@ -1,6 +1,4 @@
-Note: We are not currently accepting applications for internship positions.
-For a list of current job openings, please see
-http://jobs.apartmentlist.com/apply/
+Note: We do not have any openings for internship-level positions at this time.
 
 Apartment List Coding Challenge
 ==========================
