@@ -1,5 +1,3 @@
-Note: We do not have any openings for internship-level positions at this time.
-
 Apartment List Coding Challenge
 ==========================
 
